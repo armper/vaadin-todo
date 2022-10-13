@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/panda/Documents/GitHub/vaadin-todo",
+  "node.version": "v16.17.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/panda/Documents/GitHub/vaadin-todo/target/frontend",
+  "frontendFolder": "/Users/panda/Documents/GitHub/vaadin-todo/frontend",
+  "connect.javaSourceFolder": "/Users/panda/Documents/GitHub/vaadin-todo/src/main/java",
+  "javaResourceFolder": "/Users/panda/Documents/GitHub/vaadin-todo/src/main/resources",
+  "connect.applicationProperties": "/Users/panda/Documents/GitHub/vaadin-todo/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/panda/Documents/GitHub/vaadin-todo/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/panda/Documents/GitHub/vaadin-todo/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

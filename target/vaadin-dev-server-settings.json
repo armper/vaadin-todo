@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/panda/Documents/GitHub/vaadin-todo/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/panda/Documents/GitHub/vaadin-todo/target/flow-frontend",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/panda/Documents/GitHub/vaadin-todo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
